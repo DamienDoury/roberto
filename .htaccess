@@ -1,0 +1,4 @@
+AuthName "L'accès à ce contenu n'est pas vraiment autorisé."
+AuthType Basic
+AuthUserFile "/home/users/domergo/.htpasswd"
+Require valid-user
