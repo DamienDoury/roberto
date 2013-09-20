@@ -5,6 +5,8 @@ Roberto
 
 *January 2011*
 
+![alt text](http://oi40.tinypic.com/se0wn9.jpg)
+
 I. Introduction.
 ----
 
